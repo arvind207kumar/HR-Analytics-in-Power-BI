@@ -56,11 +56,7 @@ This structure enables flexible slicing and dicing of performance data across mu
 
 ---
 
-## 🎯 Short Description / Purpose
 
-The HR360 Analytics Dashboard provides a visual and analytical overview of employee behavior and performance metrics. It helps HR teams identify patterns in attrition, satisfaction, and training participation across various demographic segments. This tool is ideal for workforce strategists, recruiters, and HR managers aiming to improve retention and optimize employee engagement.
-
----
 
 ## 🛠️ Tech Stack
 
