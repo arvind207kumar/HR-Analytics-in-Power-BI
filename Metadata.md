@@ -55,4 +55,4 @@ Used in: `Education` column of `DimEmployee`
 
 ---
 
-Let me know if you'd like me to format the `DimEmployee` table next or generate an ERD diagram description in Markdown too!
+
