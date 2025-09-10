@@ -1,6 +1,7 @@
 # HR-Analytics-in-Power-BI
 
-<img width="1730" height="674" alt="image" src="https://github.com/user-attachments/assets/c7cc19ca-d214-469b-af37-c5dd4b4e458a" />
+
+
 ## 🧩 Data Model: Snowflake Schema Overview
 
 This project uses a **Snowflake Schema**, which promotes data integrity and reduces redundancy by normalizing dimension tables. While this structure is ideal for maintaining clean relationships and scalable data modeling, tools like Power BI may require optimization techniques to ensure smooth performance.
@@ -41,5 +42,6 @@ The model includes calculated measures such as:
 - `Employee.Education` → `EducationLevel.EducationLevelID`
 
 This structure enables flexible slicing and dicing of performance data across multiple dimensions while maintaining referential integrity.
+<img width="1730" height="674" alt="image" src="https://github.com/user-attachments/assets/c7cc19ca-d214-469b-af37-c5dd4b4e458a" />
 
 ---
