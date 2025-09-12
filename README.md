@@ -166,7 +166,7 @@ To explore the dashboard in Power BI:
 For questions, feedback, or collaboration:
 
 - **GitHub**: [arvind207kumar](https://github.com/arvind207kumar)
-- **Email**: aknarayan.000@gmail.com
+- **Linkedin**: https://www.linkedin.com/in/arvind-kumar-560885231/ 
 
 ---
 
